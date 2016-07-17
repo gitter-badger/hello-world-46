@@ -1,3 +1,3 @@
 # hello-world
 just creat repository
-i am learning npde.js,angular.js mongodb.
+i am learning node.js,angular.js mongodb.
