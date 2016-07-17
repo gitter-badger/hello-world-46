@@ -1,3 +1,3 @@
 # hello-world
 just creat repository
-hi now i just started git hub for new technology
+i am learning npde.js,angular.js mongodb.
